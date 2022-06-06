@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.nav-item.nav-link
+{
+    color: #fff;
+}
+.nav-item.nav-link:hover
+{
+    color: #fff;
+}
+
+ul
+{
+    list-style: none;
+}
+
+body .jumbotron
+{
+    text-align: center;
+    margin-top: 10px;
+}
